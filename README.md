@@ -19,7 +19,7 @@ I love creating clean, efficient, and high-performance systems — from back-end
 ### Featured Projects
 | Project | Description | Users |
 |----------|--------------|-------|
-| [**AzanMM.xyz**](https://azanmm.xyz) | Professional web platform for middleman services. | — | 10,000+ |
+| [**AzanMM.xyz**](https://azanmm.xyz) | Professional web platform for middleman services. |  | 10,000+ |
 | **Azan Middleman Services Bot (AMS)** | Professional middleman Discord bot used by 500+ users. | 500+ |
 | **3liyy Middleman Bot** | Advanced trade & ticket management bot for large servers. | 4,000+ |
 | **Trade Haven Bot** | Full trading system built with Discord.js & MongoDB. | 4,000+ |
