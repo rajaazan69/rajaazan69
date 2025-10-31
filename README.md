@@ -31,6 +31,11 @@ I love creating clean, efficient, and high-performance systems — from back-end
 ![Azan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaazan69&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaazan69&layout=compact&theme=tokyonight)
 
+### Private Projects
+Some of my most advanced work is stored in private repositories due to client confidentiality, including:
+- Automated middleman systems used by 4k+ users
+- Discord bots with ticket, trade, and escrow features
+- Web dashboards and API integrations for Roblox-based services
 ---
 
 ### Contact
