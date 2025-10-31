@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Azan
 
-<!--
-**rajaazan69/rajaazan69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | Discord Bots • Web Apps • API Integrations**
 
-Here are some ideas to get you started:
+I'm a self-taught developer with over **7 years of experience** specializing in building automation systems, web applications, and Discord bots that scale.  
+I love creating clean, efficient, and high-performance systems — from back-end APIs to front-end dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frameworks:** Node.js, Express, React  
+- **Databases:** MongoDB, MySQL, Firebase  
+- **Platforms:** Railway, Vercel, Sparked Host, Pebble Host, GitHub Pages  
+- **Other Tools:** REST APIs, Discord.js v14, WebSocket integrations
+
+---
+
+### Featured Projects
+| Project | Description | Users |
+|----------|--------------|-------|
+| [**AzanMM.xyz**](https://azanmm.xyz) | Professional web platform for middleman services. | — |
+| **Azan Middleman Services Bot (AMS)** | Professional middleman Discord bot used by 500+ users. | 500+ |
+| **3liyy Middleman Bot** | Advanced trade & ticket management bot for large servers. | 4,000+ |
+| **Trade Haven Bot** | Full trading system built with Discord.js & MongoDB. | 4,000+ |
+| **Ash Lands Bot** | Custom-built economy/middleman bot with robust automation. | 1,500+ |
+
+---
+
+### GitHub Stats
+![Azan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaazan69&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaazan69&layout=compact&theme=tokyonight)
+
+---
+
+### Contact
+- Website: [azanmm.xyz](https://azanmm.xyz)
+- Email: azanr7260@gmail.com
+
+---
+
+*“Turning code into systems that work — fast, reliable, and built to last.”*
