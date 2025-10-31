@@ -19,17 +19,13 @@ I love creating clean, efficient, and high-performance systems — from back-end
 ### Featured Projects
 | Project | Description | Users |
 |----------|--------------|-------|
-| [**AzanMM.xyz**](https://azanmm.xyz) | Professional web platform for middleman services. |  | 10,000+ |
+| [**AzanMM.xyz**](https://azanmm.xyz) | Professional website for middleman services with automated ticket systems, client verification, and live status tracking. | 10,000+ |
 | **Azan Middleman Services Bot (AMS)** | Professional middleman Discord bot used by 500+ users. | 500+ |
 | **3liyy Middleman Bot** | Advanced trade & ticket management bot for large servers. | 4,000+ |
 | **Trade Haven Bot** | Full trading system built with Discord.js & MongoDB. | 4,000+ |
 | **Ash Lands Bot** | Custom-built economy/middleman bot with robust automation. | 1,500+ |
 
 ---
-
-### GitHub Stats
-![Azan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaazan69&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaazan69&layout=compact&theme=tokyonight)
 
 ### Private Projects
 Some of my most advanced work is stored in private repositories due to client confidentiality, including:
